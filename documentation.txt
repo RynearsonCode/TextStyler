@@ -1,0 +1,13 @@
+
+### Step 3: Create a GitHub Repository
+
+1. Create a new repository on GitHub named `TextStyler`.
+2. Initialize the repository with a `README.md`.
+3. Push your local files to GitHub.
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/RynearsonCode/TextStyler.git
+git push -u origin main
